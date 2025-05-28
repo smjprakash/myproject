@@ -1,1 +1,2 @@
 This is my first line of code
+I want to print first 10  numbers
